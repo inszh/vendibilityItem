@@ -8,13 +8,13 @@
 感谢作者
 
 <p align="center">
-	<img src="https://github.com/inszh/vendibilityItem/blob/master/Preview/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-01-03%20at%2009.41.08.png" alt="Sample"  width="450" height="640">
+	<img src="https://github.com/inszh/vendibilityItem/blob/master/Preview/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-01-03%20at%2009.41.08.png" alt="Sample"  width="420" height="900">
 	<p align="center">
 	</p>
 </p>
 
 <p align="center">
-	<img src="https://github.com/inszh/vendibilityItem/blob/master/Preview/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-01-03%20at%2009.41.12.png" alt="Sample"  width="450" height="640">
+	<img src="https://github.com/inszh/vendibilityItem/blob/master/Preview/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-01-03%20at%2009.41.12.png" alt="Sample"  width="420" height="900">
 	<p align="center">
 	</p>
 </p>
