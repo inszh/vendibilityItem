@@ -3,8 +3,9 @@
 实现功能：
 
 主要是在日历上显示 当日对应的可售产品私人使用。
-修改了RMCalendar的代码,感谢作者
-https://github.com/chihaodong/RMCalendar
+修改了RMCalendar的代码
+原地址:https://github.com/chihaodong/RMCalendar
+感谢作者
 
 ![image](https://github.com/inszh/vendibilityItem/blob/master/Preview/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-01-03%20at%2009.41.08.png)    
 ![image](https://github.com/inszh/vendibilityItem/blob/master/Preview/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-01-03%20at%2009.41.12.png) 
