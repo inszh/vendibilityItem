@@ -2,7 +2,7 @@
 
 实现功能：
 
-主要是在日历上显示 当日对应的可售产品私人使用。  
+主要是在日历上显示 当日对应的可售产品，私人使用。  
 修改了RMCalendar的代码。  
 原地址:https://github.com/chihaodong/RMCalendar  
 感谢作者
